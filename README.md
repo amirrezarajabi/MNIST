@@ -6,4 +6,4 @@ This project implements a beginner classification task on MNIST dataset
 *   [model](https://github.com/amirrezarajabi/MNIST/blob/main/pytorch/PYTORCH_MODEL.rjb)
 *   [notebook](https://github.com/amirrezarajabi/MNIST/blob/main/pytorch/MNIST-Pytorch.ipynb)
 *   `Architecture = like LeNet5`
-*   `train accuracy = 99.636 %` and `test accuracy = 99.040 %`
+*   `train accuracy = 99.915 %` and `test accuracy = 99.080 %`
